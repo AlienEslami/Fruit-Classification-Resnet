@@ -22,7 +22,7 @@ epochs = 6
 batch_size = 32
 
 # Paths to dataset
-#Change them based on your needs
+# Change them based on your needs
 train_path = 'C:\\Users\\umroot\\Desktop\\Udemy Courses\\Advanced Computer Vision\\fruits-360_dataset_original-size\\fruits-360-original-size\\Training'
 valid_path = 'C:\\Users\\umroot\\Desktop\\Udemy Courses\\Advanced Computer Vision\\fruits-360_dataset_original-size\\fruits-360-original-size\\Validation'
 
